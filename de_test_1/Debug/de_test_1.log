@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\sou\documents\visual studio 2015\projects\de_test_1\de_test_1\source.cpp(49): warning C4005: 'M_PI': マクロが再定義されました。
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(1001): note: 'M_PI' の以前の定義を確認してください
+c:\users\sou\documents\visual studio 2015\projects\de_test_1\de_test_1\source.cpp(313): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sou\documents\visual studio 2015\projects\de_test_1\de_test_1\source.cpp(314): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sou\documents\visual studio 2015\projects\de_test_1\de_test_1\source.cpp(315): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sou\documents\visual studio 2015\projects\de_test_1\de_test_1\source.cpp(488): warning C4102: 'reCrate': ラベルは 1 度も参照されません。
+  de_test_1.vcxproj -> C:\Users\sou\Documents\Visual Studio 2015\Projects\de_test_1\Debug\de_test_1.exe
